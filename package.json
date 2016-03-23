@@ -1,0 +1,27 @@
+{
+  "name": "ejs-playground",
+  "version": "1.0.0",
+  "description": "A web app to play with EJS templates.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/ejs-playground.git"
+  },
+  "keywords": [
+    "ejs",
+    "playground"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/ejs-playground/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/ejs-playground#readme",
+  "blah": {
+      "ex_img": "http://i.imgur.com/Hbq4N7t.png",
+      "ex_url": "https://ionicabizau.github.io/ejs-playground"
+  }
+}
