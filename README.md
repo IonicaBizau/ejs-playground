@@ -1,3 +1,4 @@
+
 # ejs-playground [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/ejs-playground.svg)](https://www.npmjs.com/package/ejs-playground) [![Downloads](https://img.shields.io/npm/dt/ejs-playground.svg)](https://www.npmjs.com/package/ejs-playground) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A web app to play with EJS templates.
@@ -6,6 +7,7 @@
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
+
 
 ## :scroll: License
 
