@@ -1,6 +1,6 @@
 {
   "name": "ejs-playground",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A web app to play with EJS templates.",
   "main": "index.html",
   "scripts": {
@@ -14,7 +14,7 @@
     "ejs",
     "playground"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/ejs-playground/issues"
@@ -28,12 +28,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
