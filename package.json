@@ -1,6 +1,6 @@
 {
   "name": "ejs-playground",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "A web app to play with EJS templates.",
   "main": "index.html",
   "scripts": {
@@ -34,6 +34,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
