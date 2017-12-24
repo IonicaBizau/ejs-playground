@@ -1,6 +1,6 @@
 {
   "name": "ejs-playground",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "description": "A web app to play with EJS templates.",
   "main": "index.html",
   "scripts": {
