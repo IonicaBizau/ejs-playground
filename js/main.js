@@ -25,7 +25,7 @@
     editor.setValue(`OK, so have fun! :D
 -------------------
 <%
-    var fruits = ["Apple", "Pear", "Orage", "Lemon"]
+    var fruits = ["Apple", "Pear", "Orange", "Lemon"]
       , random = " ".repeat(198).split("").map(x => Math.random())
       ;
 %>
