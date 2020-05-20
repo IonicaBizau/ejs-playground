@@ -15,7 +15,11 @@
             $result.parentNode.style.background = "#c0392b";
         }
 
-        $result.textContent = result;
+        if (/html/.test(location.search)) {
+            $result.innerHTML = result;
+        } else {
+            $result.textContent = result;
+        }
     }
 
     var editor = ace.edit("editor");
