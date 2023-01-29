@@ -8,10 +8,12 @@
 
 body {
     margin: 0;
+    background:#514f4f;
 }
 
 #editor {
     height: 100vh;
+    font-size:1.2rem;
 }
 
 .col-result {
@@ -19,11 +21,17 @@ body {
 }
 
 .col.col-result {
-    background: #27ae60;
+    background:#2E2E2E;
     color: #fff;
     padding: 10px;
     font-family: 'Cutive Mono', Monaco, monospace;
     font-weight: 600;
+}
+
+#result{
+    background-color:#2E2E2E;
+    font-size:1rem;
+    margin-bottom:1rem;
 }
 
 /*http://cssdeck.com/labs/custom-webkit-scrollbars/**/
@@ -51,15 +59,35 @@ body {
 .footer {
     position: fixed;
     z-index: 99;
-    right: 10px;
+    left: 10px;
     bottom: 21px;
     color: #000000;
     background: #fff;
     padding: 10px;
     font-family: 'Cutive Mono', Monaco, monospace;
+    border:2px solid black;
+    box-shadow:inset 0px -3px 3px 0px red;
 }
 
 a {
     color: #1D75AB;
     text-decoration: none;
+}
+
+textarea{
+    position : absolute;
+    left : -100%;
+}
+
+#copy{
+    padding:1rem;
+    font-weight: 700;
+    margin-left:32rem;
+    margin-top:1.2rem;
+}
+
+#fullScreen{
+   width:100%;
+   padding:1rem;
+   margin-bottom:1rem;
 }
